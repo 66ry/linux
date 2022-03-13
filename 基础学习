@@ -5,3 +5,5 @@ tmp临时命令不用的都放进去，var放文件邮箱日志 ,ls -l列出目�
 文件类型：-普通文件（图像视频） d文本文件
 管理命令：改变目录cd  ls /默认显示根目录的内容， ls -l /默认显示根目录下的详细内容 ：命令（空格）选项（空格）参数
 sudo -s进入管理员权限 ls列出目录当中的内容 ls /  touch 路径和名字#touch / file1.text
+cd绝对路径cd/home/alice cd去往根下一个home下的alice 第一个/是根，第二个是分开home/alice
+touch创建文件  3.创建目录 mkdir 路径和目录名
